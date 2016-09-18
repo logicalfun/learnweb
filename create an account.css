@@ -1,0 +1,15 @@
+body{
+    background-color: lightcyan;
+    font-family: arial;
+}
+.mj{
+    font-family: comic sans MS;
+     border: 5px solid lightskyblue;
+    border-radius: 10px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+
+label {
+    margin-right: 50px;
+}

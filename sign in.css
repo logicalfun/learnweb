@@ -1,0 +1,21 @@
+body{
+    background-color: lightcyan;
+    font-family: arial;
+}
+.ta{
+    border: 5px solid lightskyblue;
+    border-radius: 10px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+.ya{
+    font-family: comic sans MS;
+    border: 5px solid lightskyblue;
+    background-color: lightcyan;
+    font-family: comic sans MS;
+    border-radius: 10px;
+    padding: 20px;
+}
+.pad4in{
+    padding: 20px;
+}

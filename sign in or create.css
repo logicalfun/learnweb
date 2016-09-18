@@ -1,0 +1,33 @@
+body{
+    font-family: arial;
+    font-size: 16pt;
+    background-image:url(/users/ejmin/desktop/images/calmbugbackground.jpg);
+
+}
+.sca{
+    color:white;
+    border: 5px solid darkred;
+    border-radius: 10px;
+    padding: 25px;
+    font-family: comic;
+    font-size: 20pt;
+    text-align: center;
+    background-color: yellowgreen;
+    margin: 20px;
+    text-shadow: 4px 4px 8px black;
+    border-style: groove;
+}
+.am{ 
+    font-family: comic sans MS;
+    border: 5px solid lightskyblue;
+    border-radius: 10px;
+    padding: 25px;
+}
+#menue {
+    text-align: center;
+    padding: 20px;
+}
+#footnote{
+    padding:20px;
+}
+

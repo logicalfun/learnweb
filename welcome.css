@@ -1,0 +1,39 @@
+body {
+    color: black;
+    background-image:url(/users/ejmin/desktop/images/calmbugbackground.jpg);
+    font-family: arial;   
+    font-size: 16pt;
+}
+h1 {
+    color: black;
+    font-family: Comic Sans MS;
+    font-size: 32pt;
+    text-align: center;
+    text-shadow: grey;
+}
+.language {
+    color: white;
+    font-family: comic;
+    font-size: 20pt;
+    border: 5px solid darkred;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+.mp {
+    border: 5px solid darkred;
+    border-radius: 10px;
+    padding: 20px;
+    padding-bottom: 50px;
+    background-color: transparent;
+}
+#menue {
+    text-align: center;
+    padding: 20px;
+}
+#footnote{
+    padding:20px;
+}
+    
