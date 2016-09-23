@@ -28,25 +28,25 @@
 .fs-opening-pic{
     margin-top: 90px;
     height: 400px;
-    width: 100%;
+    width: 50%;
 }
 .fs-login-opening-pic{
     text-align: right;
     position: absolute;
-    width: 85%;
+    width: 70%;
     top: 200px;
     font-style: italic;
 }
 .fs-text-opening-pic{
     text-align: right;
     position: absolute;
-    width: 97%;
+    width: 75%;
     top: 250px;
     font-style: italic;
     font-size: 12pt;
 }
 .fs-button-opening-pic{
-    left:85%;
+    left:70%;
     top: 300px;
     position: absolute;
 }
