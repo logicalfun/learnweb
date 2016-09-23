@@ -1,0 +1,183 @@
+.fs-header{
+    background-color: #FC0377;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+.fs-logo{
+    font-family: fantasy;
+    padding-left: 20px;
+    margin-top: 30px;
+    font-size: 26pt;
+    font-style: italic;
+    text-shadow: 4pt 4pt 8pt #000;
+    color: #FFFFFF;
+}
+.fs-menue{
+    text-align: right;
+    font-family: cursive;
+    font-size: 15pt;
+}
+.fs-menue-text{
+    word-spacing: 20px;
+}
+.fs-menue-icon{
+    word-spacing: 20px;
+}
+.fs-opening-pic{
+    margin-top: 90px;
+    height: 400px;
+    width: 100%;
+}
+.fs-login-opening-pic{
+    text-align: right;
+    position: absolute;
+    width: 85%;
+    top: 200px;
+    font-style: italic;
+}
+.fs-text-opening-pic{
+    text-align: right;
+    position: absolute;
+    width: 97%;
+    top: 250px;
+    font-style: italic;
+    font-size: 12pt;
+}
+.fs-button-opening-pic{
+    left:85%;
+    top: 300px;
+    position: absolute;
+}
+.fs-content{
+    margin-top: 128px;
+    width: 100%;
+}
+.fs-you-love-pic{
+    height: 8%;
+    width: 8%;
+    margin-top: 0px;
+}
+.fs-1opening-text{
+    font-weight: bold;
+    display: inline;
+}
+.fs-1opening-text-details{
+    font-style: italic;
+    display: block;
+}
+.fs-fave-shop-pic{
+    height: 8%;
+    width: 8%;
+    margin-top: 0px;
+}
+.fs-2opening-text{
+    font-weight: bold;
+    display: inline;
+}
+.fs-2opening-text-details{
+    font-style: italic;
+    display: block;
+}
+.fs-safety-pic{
+    height: 8%;
+    width: 8%;
+    margin-top: 0px;
+}
+.fs-3opening-text{
+    font-weight: bold;
+    display: inline;
+}
+.fs-3opening-text-details{
+    font-style: italic;
+    display: block;
+}
+.fs-small-icon{
+    display: inline-flex;
+}
+.fs-shop-category{
+    text-align: center;
+}
+.fs-category-home-and-living{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 40px; 
+}
+.fs-category-jewelry{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.fs-category-clothing{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.fs-category-craft-tools{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.fs-category-weddings{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.fs-category-toys{
+    height: 150px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.fs-categories{
+    display: inline-flex;
+}
+.fs-home-and-living-text{
+    margin-left: 0px;
+    font-weight: bold;
+}
+.fs-category-jewelry-text{
+    font-weight: bold;
+    margin-left: 5%;
+}
+.fs-category-clothing-text{
+    font-weight: bold;
+    margin-left: 5%;    
+}
+.fs-category-craft-tools-text{
+    font-weight: bold;
+    margin-left: 5%;
+}
+.fs-category-weddings-text{
+    font-weight: bold;
+    margin-left: 5%;
+}
+.fs-category-toys-text{
+    font-weight: bold;
+    margin-left: 5%;
+}
+.fs-category-text{
+    display: inline-flex;
+}
+.fs-footer{
+    border-top: solid 2px #B8BABA;
+}
+.fs-footer-list{
+    display: inline-block;
+    float: none;
+    padding-right: 5%;
+}
+.fs-footer-font{
+    font-weight: bold;
+}
+.fs-footer-tnc{
+    text-align: center;
+    display: inline;
+}
+

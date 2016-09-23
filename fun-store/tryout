@@ -1,0 +1,16 @@
+ <div class="fs-category-icons">
+            <img class="fs-category-home-and-living" src="\users\ejmin\desktop\images\home-and-living.jpg" alt="home and living">
+            <img class="fs-category-jewelry" src="\users\ejmin\desktop\images\jewelry.jpg" alt="jewellry">
+            <img class="fs-category-clothing" src="\users\ejmin\desktop\images\clothing.jpg" alt="clothing">
+            <img class="fs-category-craft-tools" src="\users\ejmin\desktop\images\craft-tools.jpg" alt="crafting tools">
+            <img class="fs-category-weddings" src="\users\ejmin\desktop\images\weddings.jpg" alt="weddings">
+            <img class="fs-category-toys" src="\users\ejmin\desktop\images\toys.jpg" alt="toys and games">
+        </div>
+        <div class="fs-category-text">
+            <ul class="fs-home-and-living-text"><a href="http;//google.ca">Home & Living</a></ul>
+            <ul class="fs-category-jewelry-text"> <a href="http://google.ca">Jewellry</a></ul>
+            <ul class="fs-category-clothing-text"><a href="http://google.ca">Clothing</a></ul>
+            <ul class="fs-category-craft-tools-text"><a href="http://google.ca">Craft Supplies & Tools</a></ul>
+            <ul class="fs-category-weddings-text"><a href="http://google.ca">Weddings</a></ul>
+            <ul class="fs-category-toys-text"><a href="http://google.ca">Toys & Games</a></ul>
+        </div>
