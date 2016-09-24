@@ -1,23 +1,35 @@
+htm{
+    font-size: 16px;
+}
 .fs-header{
     background-color: #FC0377;
     position: fixed;
     top: 0px;
     left: 0px;
     width: 100%;
+    height: 5rem;
+    z-index: 200;
+}
+.fs-body{
+    margin-top: 5rem;
 }
 .fs-logo{
-    font-family: fantasy;
-    padding-left: 20px;
-    margin-top: 30px;
-    font-size: 26pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
     font-style: italic;
-    text-shadow: 4pt 4pt 8pt #000;
+    text-shadow: .4rem .4rem .8rem #000;
     color: #FFFFFF;
 }
-.fs-menue{
+.fs-lo-logo{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.fs-menu{
     text-align: right;
-    font-family: cursive;
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
     font-size: 15pt;
+    float: right;
+    padding-right: 3rem;
 }
 .fs-menue-text{
     word-spacing: 20px;
@@ -26,7 +38,6 @@
     word-spacing: 20px;
 }
 .fs-opening-pic{
-    margin-top: 90px;
     height: 400px;
     width: 50%;
 }
@@ -99,71 +110,31 @@
 .fs-shop-category{
     text-align: center;
 }
-.fs-category-home-and-living{
+.fs-category-pic{
     height: 150px;
     width: 150px;
     margin-top: 0px;
     margin-left: 40px; 
 }
-.fs-category-jewelry{
-    height: 150px;
-    width: 150px;
-    margin-top: 0px;
-    margin-left: 60px;
-}
-.fs-category-clothing{
-    height: 150px;
-    width: 150px;
-    margin-top: 0px;
-    margin-left: 60px;
-}
-.fs-category-craft-tools{
-    height: 150px;
-    width: 150px;
-    margin-top: 0px;
-    margin-left: 60px;
-}
-.fs-category-weddings{
-    height: 150px;
-    width: 150px;
-    margin-top: 0px;
-    margin-left: 60px;
-}
-.fs-category-toys{
-    height: 150px;
-    width: 150px;
-    margin-top: 0px;
-    margin-left: 60px;
-}
-.fs-categories{
-    display: inline-flex;
-}
-.fs-home-and-living-text{
+.fs-category-text{
     margin-left: 0px;
     font-weight: bold;
 }
-.fs-category-jewelry-text{
-    font-weight: bold;
-    margin-left: 5%;
-}
-.fs-category-clothing-text{
-    font-weight: bold;
-    margin-left: 5%;    
-}
-.fs-category-craft-tools-text{
-    font-weight: bold;
-    margin-left: 5%;
-}
-.fs-category-weddings-text{
-    font-weight: bold;
-    margin-left: 5%;
-}
-.fs-category-toys-text{
-    font-weight: bold;
-    margin-left: 5%;
-}
-.fs-category-text{
+.fs-categories{
     display: inline-flex;
+    list-style: none;
+}
+.fs-categories li {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+}
+.fs-categories:nth-child(1) {
+    margin-left: 0;
+}
+.fs-categories li img {
+    width: 100%;
+    /*height: 100%;*/
 }
 .fs-footer{
     border-top: solid 2px #B8BABA;
